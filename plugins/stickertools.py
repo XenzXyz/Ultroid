@@ -173,7 +173,7 @@ async def hehe(args):
         splat = args.text.split()
         pack = 1
         if not emoji:
-            emoji = "🏵"
+            emoji = "🥰"
         if len(splat) == 3:
             pack = splat[2]  # User sent ultroid_both
             emoji = splat[1]
